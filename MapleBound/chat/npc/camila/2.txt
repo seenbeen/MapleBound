@@ -1,0 +1,5 @@
+Ah, there you are. All done? That's great news. I'll spread the word out to the others. I'm sure they'll be
+very thankful of the wonderful deed you have done. A portal has suspiciously opened in another area of Henesys,
+though. You may want to check that out, traveller. Did I mention you look much stronger than you did before you
+helped us out?
+/#e none$r none$f-2 ok$sp-1-2

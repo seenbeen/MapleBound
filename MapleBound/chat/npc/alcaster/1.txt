@@ -1,0 +1,8 @@
+What's that? Your destination? You don't remember Mir? He's your dragon! Your faithful partner! Right before
+you were captured at the Temple of Time, Arkarium sealed Mir in a crystal cave somewhere on the island of Rien. His
+forces are armed and plentiful on the island, but since you have a newfound ability to hop spontaneously from district
+to district through the suspicious portals, you'll probably end up at the cave sooner or later.
+
+/#e
+
+end$r previous$f-0 next$f-2

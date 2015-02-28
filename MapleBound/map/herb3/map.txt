@@ -1,0 +1,26 @@
+/#bg
+herb
+/#bg
+
+/#npc
+lan ming$1036,371
+mr. gong$296,664
+so won$298,942
+mu tan$1115,868
+/#npc
+
+/#portal
+33$1172,370$1
+35$153,942$1
+37$1197,869$1
+/#portal
+
+/#mob
+/#mob
+
+/#spawnpoint
+/#spawnpoint
+
+/#sound
+herb
+/#sound

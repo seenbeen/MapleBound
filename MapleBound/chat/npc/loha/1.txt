@@ -1,0 +1,5 @@
+Watch yourself out there, young traveller. If you do get injured by any chance (hopefully you don't), I'm always here if you need me.
+
+/#e
+
+end$r previous$f-0 ok$r

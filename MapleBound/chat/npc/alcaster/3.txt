@@ -1,0 +1,6 @@
+Explore the world and reconnect with your powers. There may be people along your journey that will require your assistance.
+Don't be afraid to step into those pesky portals!
+
+/#e
+
+end$r previous$f-2 ok$r

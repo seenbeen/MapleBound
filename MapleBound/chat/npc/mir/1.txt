@@ -1,0 +1,5 @@
+Let's hope that we'll never get separated again... Arkarium is closer than he seems. I believe he's still somewhere on this island patrolling and checking up on his soldiers. We better get going or else they'll find us within minutes... they checked my cave frequently.
+
+/#e
+
+end$r previous$f-0 next$f-2

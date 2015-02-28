@@ -1,0 +1,5 @@
+If you're looking to buy some herbs and crops, you're out of luck. Recent attacks have rendered most of our produce useless. Unfortunately you'll have to come back some other time.
+
+/#e
+
+end$r previous$f-0 ok$r

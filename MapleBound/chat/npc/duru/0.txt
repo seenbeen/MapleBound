@@ -1,0 +1,7 @@
+Ugh... I've been injured in the worse place ever. Last night I went out into the forest
+and got trampled by the huge monsters in the wilderness...
+There was this huge stone bug that was disguised as a patch of moss! He knocked me over and gave me a mild concussion and I passed out for a couple of moments before some of the townspeople found me.
+
+/#e
+
+end$r none$f-0 next$f-1

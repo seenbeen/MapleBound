@@ -1,0 +1,4 @@
+Good work traveller, I knew you had it in you. Some townsfolk say that a portal has opened in some area of
+Herb Town. I think you should check it out... Keep on helping out folks in need, Good Samaritan. I can tell you've come
+a long way.
+/#e none$r none$f-2 ok$sp-4-2

@@ -1,0 +1,7 @@
+Monsters have been crowding the harbor lately and it's been hard to enjoy my time here. Would you mind
+eliminating some of them? I think if you get rid of 10 Blue Snails, 10 Pigs, and 10 Ribbon Pigs, I'd have a
+much more enjoyable experience here at Lith Harbor watching those ships sail into the vast oceanic void.
+
+/#e
+
+none$r none$f-1 accept$sp-0-1

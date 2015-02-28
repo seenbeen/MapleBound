@@ -1,0 +1,6 @@
+Say, you look like a strong adventurer. What if you took on a simple task for me? I'm a bit famished right now,
+so I want to kill 30 Wild Boars and 30 Fire Boars. Throw in 30 Stumps in there as well for I need the firewood to cook
+the food. I'll be waiting here for some good news.
+/#e
+
+none$r none$f-1 accept$sp-2-1

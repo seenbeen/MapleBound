@@ -1,0 +1,5 @@
+Herb Town's a nice home for us. The profit's good and the food's plentiful. The only stressful time of the year is when some of the bad crop retaliate against us.
+
+/#e
+
+end$r none$f-0 next$f-1

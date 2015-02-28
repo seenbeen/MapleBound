@@ -1,0 +1,5 @@
+I have the honour of presenting the Queen the coat of arms of Ariant!
+
+/#e
+
+end$r none$f-0 next$f-1

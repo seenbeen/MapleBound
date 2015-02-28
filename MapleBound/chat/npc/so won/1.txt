@@ -1,0 +1,5 @@
+Mu Tan is in charge of the defensive operations in town. He might have a task for a strong traveller like you.
+
+/#e
+
+end$r previous$f-0 ok$r

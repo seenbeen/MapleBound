@@ -1,0 +1,5 @@
+I am the head magician of this settlement and I provide the moral support and reassurance
+to all of our citizens who were brave enough to venture into this mysterious forest.
+/#e
+
+end$f-2 none$f-0 next$q-1-2-3-4

@@ -1,0 +1,8 @@
+Oh dear... I'm sure you've heard about the trouble Ellin Forest is under from the other individuals
+in the town. I suspect that some monsters in the forest have grown from a mysterious hormone that
+accelerates their maturity to sizes that are normally unimaginable. To eliminate this problem, we need
+someone to kill a herd of them so that the population will dwindle. Can you take on that challenge? I think
+40 Mossy Mushrooms, 40 Primitive Boars, and 40 Stone Bugs will suffice.
+/#e
+
+none$r none$f-1 accept$sp-3-1

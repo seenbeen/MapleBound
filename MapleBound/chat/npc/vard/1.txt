@@ -1,0 +1,7 @@
+The Queen is set to come around this area of the Nihal Desert from her home to tour out west. We're scrambling to
+corner off the district so we can prepare for this once in a lifetime event! Unfortunately, some monsters out in the
+desert are preventing us from tackling the problem with full force. Can you help us? Kill 60 Meerkats, 60 Kiyos, and
+60 Desert Giants... Yes, I am positive that'll be enough to clear the way for now.
+/#e
+
+none$r none$f-1 accept$sp-5-1

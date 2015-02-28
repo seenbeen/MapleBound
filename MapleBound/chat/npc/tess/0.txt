@@ -1,0 +1,6 @@
+I'm Tess and I'm on guard here to protect the citizens of Ellin. Weird things have been
+going on recently and we can't afford to lose one of our own.
+
+/#e
+
+end$r none$f-0 next$f-1

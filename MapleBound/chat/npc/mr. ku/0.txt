@@ -1,0 +1,5 @@
+I'm out here assessing the damage to our crops. Don't disturb me.
+
+/#e
+
+end$r none$f-0 ok$r

@@ -1,0 +1,7 @@
+I take it that you've seen the horrendous invaders that are taking over Herb Town? They're ruining our business
+and killing all of our good crops! We can't go on living with them or else we'll go broke. Say... what if you taught
+them a lesson? Kill 50 Bellflower Roots, 50 Sr. Bellflower Roots, and 50 Alligators so that the rest of them get
+the message!
+/#e
+
+none$r none$f-1 accept$sp-4-1

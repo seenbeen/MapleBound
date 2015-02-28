@@ -1,0 +1,6 @@
+Recently, Henesys has seen a great increase in the number of mushrooms. I'm starting to wonder if this is
+a bad omen. Other villagers are becoming increasingly concerned as well. I think you should go and eliminate 20
+Orange Mushrooms, 20 Blue Mushrooms, and 20 Green Mushrooms to reassure the townsfolk.
+/#e
+
+none$r none$f-1 accept$sp-1-1

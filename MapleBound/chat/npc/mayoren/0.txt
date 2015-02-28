@@ -1,0 +1,6 @@
+Yikes, the forest has been a really dangerous place recently...
+There's been reports of abductions and random disappearances deep within Ellin.
+
+/#e
+
+end$r none$f-0 next$f-1

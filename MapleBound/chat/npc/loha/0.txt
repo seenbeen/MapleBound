@@ -1,0 +1,5 @@
+Oh hey, welcome to our little settlement in Ellin Forest. I'm Loha, the medic for the bunch of us here. I just recently operated on one of our own, so things certainly do get busy down here. Word has it that monsters have recently supersized in the surrounding areas and are growing out of control.
+
+/#e
+
+end$r none$f-0 next$f-1

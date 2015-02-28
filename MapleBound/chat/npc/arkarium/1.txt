@@ -1,0 +1,6 @@
+Maybe I'll see you in the future, but for now, go enjoy the sun at the harbor and get off my case...
+You can't be a hero all the time! As for Mir... I'll kindly take him off your hands.
+
+/#e
+
+end$r previous$f-0 next$f-2

@@ -1,0 +1,6 @@
+Well well... What do we have here? You think you can defeat me once and for all? Think again! I'll have you
+thrown back to Lith Harbor right this instant. What can you do about it? Nothing!
+
+/#e
+
+end$r none$f-0 next$f-1

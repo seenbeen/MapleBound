@@ -1,0 +1,8 @@
+Since you just woke up, I think I'll refresh your memory of how this environment works. Use the RIGHT and LEFT arrows
+to move around. ALT is to jump and UP is to climb ladders and ropes while you're in the air. DOWN is to crouch. Hold down SHIFT to
+utilize your bow and fire arrows (the longer it'd held down, the more powerful the shot). Don't forget about W and S - they control
+the angle of your shot.
+
+/#e
+
+end$r previous$f-1 next$f-3

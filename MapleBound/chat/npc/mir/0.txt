@@ -1,0 +1,5 @@
+YOU'RE ALIVE! I CAN'T BELIEVE IT! As soon as you stepped into my cave, I felt your aura which woke up from the deep sleep Arkarium put me under. It's been quite a while... but you look just as strong as ever... You didn't lose any power after he banished you all the way back to Lith Harbor?
+
+/#e
+
+end$r none$f-0 next$f-1

@@ -1,0 +1,5 @@
+Thankfully they came as soon as they did! If I'd been left out there for another minute or two, I might not be here today. Loha did an amazing job of patching me up. She's the settlement's medic and saved my life.
+
+/#e
+
+end$r previous$f-0 ok$r

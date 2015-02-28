@@ -1,0 +1,5 @@
+Quick! Take him out right now while he's least suspecting it! Here's our chance we've been waiting all this time! Go into the portal and prepare yourself!
+
+/#e
+
+end$r previous$f-2 ok$r

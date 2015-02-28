@@ -1,0 +1,9 @@
+You're finally awake! We wern't sure what to do with you there... The word is that Arkarium
+sealed you up and sent you back here with a little twist on the side. I've come to believe that the world
+is now distorted for you. What I mean is that there may be portals that are out of the ordinary.
+They appear in the most random areas around the world and they'll take you to the most random places.
+Legend has it that these portals appear whenever a hero helps out someone in need. I suggest you do the same if the portals are not appearing for you. These portals may be intimidating, but rest assured, I am confident that they'll bring you to your destination.
+
+/#e
+
+end$r none$f-0 next$f-1

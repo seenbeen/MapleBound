@@ -1,0 +1,5 @@
+Ariant's full of wonders and treasures. It'll certainly be a pleasure welcoming the Queen to our little paradise.
+
+/#e
+
+end$r none$f-0 next$f-1

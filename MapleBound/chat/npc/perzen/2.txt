@@ -1,0 +1,6 @@
+Wow! You've actually killed them all! For a second there, I didn't think you would be able to handle
+such a task. You've certainly pulled through, and gained even more experience than you had before.
+Thank you again for your kind efforts. I have hopes that Ellin will be peaceful in the near
+future. I heard that a portal has opened somewhere within the forest to some otherworldly area. Does it have
+something to do with you? 
+/#e none$r none$f-2 ok$sp-3-2

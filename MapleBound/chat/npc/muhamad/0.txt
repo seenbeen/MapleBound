@@ -1,0 +1,5 @@
+Hey you. You busy right now? If not, then you should give Vard a little chit chat. He might need some assistance tending to the preparations, you know.
+
+/#e
+
+end$r none$f-0 next$f-1

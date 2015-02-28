@@ -1,0 +1,5 @@
+Greetings, my friend. What brings you around to Herb Town today?
+
+/#e
+
+end$r none$f-0 next$f-1

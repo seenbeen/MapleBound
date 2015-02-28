@@ -1,0 +1,5 @@
+Which escape route do we take? Oh wait, I think I see Arkarium!
+
+/#e
+
+end$r previous$f-1 next$f-3
