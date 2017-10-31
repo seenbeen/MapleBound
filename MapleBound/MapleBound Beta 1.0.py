@@ -1,5 +1,6 @@
 #MapleBound Final by
 #Shiyang Han and Weiyi Dai
+import pygame._view #required for py2exe
 from pygame import *
 from math import *
 from game_classes import *

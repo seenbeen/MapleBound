@@ -75,9 +75,9 @@ class BuildExe:
         self.exclude_modules = []
         
         #DLL Excludes
-        self.exclude_dll = ['']
+        self.exclude_dll = ['numpy-atlas.dll']
         #python scripts (strings) to be included, seperated by a comma
-        self.extra_scripts = []
+        self.extra_scripts = ['game_classes','npc_chat']
  
         #Zip file name (None will bundle files in exe instead of zip file)
         self.zipfile_name = None
