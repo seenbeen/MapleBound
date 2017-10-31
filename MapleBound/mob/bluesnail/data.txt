@@ -1,0 +1,63 @@
+0
+move
+x -16
+y -34
+delay 120
+mage move_0.png
+x -16
+y -34
+delay 120
+mage move_1.png
+x -16
+y -34
+delay 120
+mage move_2.png
+x -16
+y -34
+delay 120
+mage move_3.png
+x -16
+y -34
+delay 120
+mage move_4.png
+x -16
+y -34
+delay 120
+mage move_5.png
+x -16
+y -34
+delay 120
+mage move_6.png
+/#!
+stand
+x -16
+y -34
+delay 100
+mage stand_0.png
+/#!
+hit
+x -16
+y -39
+delay 600
+mage hit1_0.png
+/#!
+die
+x -30
+y -32
+delay 180
+mage die1_0.png
+x -30
+y -32
+delay 180
+mage die1_1.png
+x -30
+y -32
+delay 300
+mage die1_2.png
+/#!
+jump
+x -16
+y -34
+delay 100
+mage stand_0.png
+/#!

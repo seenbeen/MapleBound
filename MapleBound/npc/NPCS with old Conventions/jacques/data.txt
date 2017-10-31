@@ -1,0 +1,20 @@
+a
+stand.0.origin.x 29
+stand.0.origin.y 73
+stand.0.delay 1200
+stand.0.image stand.0.png
+stand.1.origin.x 29
+stand.1.origin.y 73
+stand.1.delay 120
+stand.1.image stand.1.png
+/#!
+b
+eye.0.origin.x 29
+eye.0.origin.y 73
+eye.0.delay 1200
+eye.0.image eye.0.png
+eye.1.origin.x 29
+eye.1.origin.y 73
+eye.1.delay 120
+eye.1.image eye.1.png
+/#!

@@ -305,7 +305,8 @@ class mob():
         
         #When you die, you maek a naise sound lolol
         self.sound_die = mixer.Sound("mob/%s/die.ogg"%mob_name)
-
+        self.sound_die.set_volume(0.1)
+        
         #get hit? make sound pl0x
         self.sound_hit = mixer.Sound("mob/%s/damage.ogg"%mob_name)
         self.sound_hit.set_volume(0.35)
@@ -568,7 +569,8 @@ class player():
         self.direction = False
         #load sound
         self.sound_jump = mixer.Sound("sound/player/jump.ogg")
-
+        self.sound_jump.set_volume(0.1)
+        
         #this is to make sure they don't glitch with jump sound by jump, climb, jump, climb-ing
         self.rl_clock = time.Clock() #rope ladder clock ^^^^^
 
@@ -1001,9 +1003,11 @@ class game_map():
             #suppose they're on the same map. The music doens't change.
             mixer.music.load("sound/bgm/%s.ogg"%bg_music[0])
             mixer.music.play(-1)
+            mixer.music.set_volume(0.02)
             self.bgm = bg_music[0]
 
         self.hit_sound = mixer.Sound("sound/player/hit1.ogg")
+        self.hit_sound.set_volume(0.1)
         
         #generate mobs
         self.mobs = []
@@ -1062,6 +1066,7 @@ class game_map():
                 if  last+self.last_portal_time >= 1000:
                     #plays the portal sound
                     go_portal = mixer.Sound("portals/portal.ogg")
+                    go_portal.set_volume(0.1)
                     go_portal.play()
                     to_map,portid = each.warp()
                     #transitional surface for fade effects
@@ -1189,7 +1194,10 @@ class game_map():
                         if each_mob.hp - self.player.pattack <= 0:
                             each_mob.sound_die.play()
                             self.effects.append(effects(each_mob.die,each_mob.x,each_mob.y))
-                            self.player.quests[each_mob.id[0]][each_mob.id[1]+1]+=1
+                            try:
+                                self.player.quests[each_mob.id[0]][each_mob.id[1]+1]+=1
+                            except:
+                                pass
                             if each_mob.mob_name == "arkarium":
                                 self.player.win = True
                             del(self.mobs[self.mobs.index(each_mob)])

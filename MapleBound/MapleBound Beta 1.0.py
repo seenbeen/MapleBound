@@ -1,7 +1,5 @@
 #MapleBound Final by
 #Shiyang Han and Weiyi Dai
-#Python Version: 2.7.2
-
 from pygame import *
 from math import *
 from game_classes import *
@@ -43,7 +41,7 @@ while running: #if they wanna continue after death or after winning the game
                 gaming = True
 
     if running: #if they didn't click exit, start game
-        Map = game_map("ellin0","player",None,None) #player starts all over per quit or death
+        Map = game_map("dtot0","player",None,None) #player starts all over per quit or death
         cam = camera(0,0)
         mouse.set_visible(False)
         
@@ -54,6 +52,7 @@ while running: #if they wanna continue after death or after winning the game
         for evt in event.get():
             if evt.type == QUIT:
                 gaming = False
+                running = False
                 mixer.music.stop() #any quits, music stops
                 mouse.set_visible(True)
             if evt.type == MOUSEBUTTONDOWN: #if they click down, check for an npc click
@@ -63,10 +62,10 @@ while running: #if they wanna continue after death or after winning the game
                 if evt.key == K_UP:
                     Map.check_portal(Map.player.x,Map.player.y,cam,mx,my,mb)
                     break
-                if evt.key == K_ESCAPE:
-                    gaming = False
-                    mixer.music.stop()
-                    mouse.set_visible(True)
+                #if evt.key == K_ESCAPE:
+                #    gaming = False
+                #    mixer.music.stop()
+                #    mouse.set_visible(True)
             if evt.type == KEYUP:
                 if evt.key == K_LSHIFT and not reverting and Map.player.state != "rope" and Map.player.state != "ladder":
                     Map.player.state = "firing2" #if they release shift, fire shot 
@@ -138,7 +137,8 @@ while running: #if they wanna continue after death or after winning the game
             gaming = False
             mixer.music.stop()
             mouse.set_visible(True)
-        fire_timer.tick(120)
+        fire_timer.tick(90)
+
     if running:
         if Map.player.win: #if they've won display a cheesy the end lol
             theend = True

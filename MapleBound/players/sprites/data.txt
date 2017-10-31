@@ -1,0 +1,108 @@
+walk_p
+x -43
+y -75
+delay 180
+mage walk1_0.png
+x -43
+y -75
+delay 180
+mage walk1_1.png
+x -43
+y -75
+delay 180
+mage walk1_2.png
+x -43
+y -75
+delay 180
+mage walk1_3.png
+/#!
+stand_p
+x -43
+y -75
+delay 500
+mage stand1_0.png
+x -43
+y -75
+delay 500
+mage stand1_1.png
+x -43
+y -75
+delay 500
+mage stand1_2.png
+x -43
+y -75
+delay 500
+mage stand1_3.png
+x -43
+y -75
+delay 500
+mage stand1_4.png
+/#!
+prone_p
+x -96
+y -47
+delay 100
+mage prone_0.png
+/#!
+prone2_p
+x -24
+y -47
+delay 100
+mage prone_0.png
+/#!
+jump_p
+x -29
+y -73
+delay 200
+mage jump_0.png
+/#!
+ladder_p
+x -29
+y -72
+delay 250
+mage ladder_0.png
+x -29
+y -72
+delay 250
+mage ladder_1.png
+/#!
+rope_p
+x -27
+y -75
+delay 250
+mage rope_0.png
+x -27
+y -75
+delay 250
+mage rope_1.png
+/#!
+firing0_p
+x -46
+y -77
+delay 0
+4_0_arm.png
+x -46
+y -77
+delay 0
+4_0_body.png
+/#!
+firing1_p
+x -46
+y -77
+delay 0
+4_1_arm.png
+x -46
+y -77
+delay 0
+4_1_body.png
+/#!
+firing2_p
+x -46
+y -77
+delay 0
+4_2_arm.png
+x -46
+y -77
+delay 0
+4_2_body.png
+/#!

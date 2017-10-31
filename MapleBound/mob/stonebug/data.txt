@@ -1,0 +1,127 @@
+0
+move
+x -48
+y -82
+delay 90
+mage move_0.png
+x -48
+y -82
+delay 90
+mage move_1.png
+x -48
+y -82
+delay 90
+mage move_2.png
+x -48
+y -82
+delay 90
+mage move_3.png
+x -48
+y -82
+delay 90
+mage move_4.png
+x -48
+y -82
+delay 90
+mage move_5.png
+x -48
+y -82
+delay 90
+mage move_6.png
+x -48
+y -82
+delay 90
+mage move_7.png
+x -48
+y -82
+delay 90
+mage move_8.png
+x -48
+y -82
+delay 90
+mage move_9.png
+/#!
+stand
+x -48
+y -75
+delay 120
+mage stand_0.png
+x -48
+y -75
+delay 120
+mage stand_1.png
+x -48
+y -75
+delay 120
+mage stand_2.png
+x -48
+y -75
+delay 120
+mage stand_3.png
+x -48
+y -75
+delay 120
+mage stand_4.png
+x -48
+y -75
+delay 120
+mage stand_5.png
+x -48
+y -75
+delay 120
+mage stand_6.png
+/#!
+hit
+x -40
+y -95
+delay 600
+mage hit1_0.png
+/#!
+die
+x -65
+y -95
+delay 180
+mage die1_0.png
+x -65
+y -95
+delay 180
+mage die1_1.png
+x -65
+y -95
+delay 180
+mage die1_2.png
+x -65
+y -95
+delay 180
+mage die1_3.png
+x -65
+y -95
+delay 180
+mage die1_4.png
+x -65
+y -95
+delay 180
+mage die1_5.png
+x -65
+y -95
+delay 180
+mage die1_6.png
+x -65
+y -95
+delay 180
+mage die1_7.png
+x -65
+y -95
+delay 180
+mage die1_8.png
+x -65
+y -95
+delay 180
+mage die1_9.png
+/#!
+jump
+x -48
+y -75
+delay 120
+mage stand_0.png
+/#!

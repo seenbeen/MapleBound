@@ -1,0 +1,4 @@
+x -44
+y -248
+delay 100
+mage pv_0.png
