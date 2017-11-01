@@ -10,6 +10,7 @@ from glob import *
 
 grav = 0.05
 UI = image.load("ui/UI.png")
+PLAYER_WALK_SPEED = 2
 
 #this is the class for mouse. It controls everythign that goes on
 #with displaying the mouse on the screen.
@@ -657,18 +658,18 @@ class player():
         if self.x+1 > MAP.walk.get_width()-125: return
 
         #if you're curious about this part, refer to the mob class's move explanation
-        if self.state != "jump" and MAP.walk.get_at((self.x+1,self.y))[3] == 0:
+        if self.state != "jump" and MAP.walk.get_at((self.x+PLAYER_WALK_SPEED,self.y))[3] == 0:
             for j in range(5):
-                if MAP.walk.get_at((self.x+1,self.y+j))[3] != 0:
+                if MAP.walk.get_at((self.x+PLAYER_WALK_SPEED,self.y+j))[3] != 0:
                     self.y +=j
-                    self.x +=1
+                    self.x +=PLAYER_WALK_SPEED
                     return     
 
         go = True
         
         high = 0
         for j in range(1,6): #Power of crawl
-            if MAP.walk.get_at((self.x+1,self.y-j))[3] != 0:
+            if MAP.walk.get_at((self.x+PLAYER_WALK_SPEED,self.y-j))[3] != 0:
                 if j==5:
                     go = False
                     break
@@ -676,7 +677,7 @@ class player():
                     high = -j
         if go:
             self.y+=high
-            self.x+=1
+            self.x+=PLAYER_WALK_SPEED
 
 
     #this method handles the player moving left        
@@ -688,11 +689,11 @@ class player():
             self.state = "walk"
         if self.x-125 < 0: return
 
-        if self.state != "jump" and MAP.walk.get_at((self.x-1,self.y))[3] == 0:
+        if self.state != "jump" and MAP.walk.get_at((self.x-PLAYER_WALK_SPEED,self.y))[3] == 0:
             for j in range(5):
-                if MAP.walk.get_at((self.x-1,self.y+j))[3] != 0:
+                if MAP.walk.get_at((self.x-PLAYER_WALK_SPEED,self.y+j))[3] != 0:
                     self.y +=j
-                    self.x -=1
+                    self.x -=PLAYER_WALK_SPEED
                     return
                 
         go = True
@@ -700,7 +701,7 @@ class player():
         #if you're curious about this part, refer to the mob class's move explanation
         high = 0
         for j in range(1,6): #Power of crawl
-            if MAP.walk.get_at((self.x-1,self.y-j))[3] != 0:
+            if MAP.walk.get_at((self.x-PLAYER_WALK_SPEED,self.y-j))[3] != 0:
                 if j==5:
                     go = False
                     break
@@ -708,7 +709,7 @@ class player():
                     high = -j
         if go:
             self.y+=high
-            self.x-=1
+            self.x-=PLAYER_WALK_SPEED
 
     #this method handles the player jumping
     #it takes in KL and KR (key left and right)
@@ -1003,7 +1004,7 @@ class game_map():
             #suppose they're on the same map. The music doens't change.
             mixer.music.load("sound/bgm/%s.ogg"%bg_music[0])
             mixer.music.play(-1)
-            mixer.music.set_volume(0.02)
+            mixer.music.set_volume(0.1)
             self.bgm = bg_music[0]
 
         self.hit_sound = mixer.Sound("sound/player/hit1.ogg")
