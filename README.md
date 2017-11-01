@@ -13,7 +13,7 @@
 - An RPG-esque rogue-like side-scroller which (as usual) isn't balanced super duper well [unsurprisingly]
 
 ## Features
-- "Rich" story (thanks *Weiyi* ;_;7) in a colourful and immersive world (thanks *Maplestory*!)
+- "Rich" story in a colourful and immersive world (thanks *Maplestory*!)
 - Delicious rogue-like side-scroller with shooting action
 - Platformer physics, including ability to climb ladders and ropes
 - Moveable dialogue boxes with fancy transitions, interactive buttons, and stretch to fit content
@@ -68,7 +68,7 @@ Requires Python 2.7 with the appropriate Pygame installed. Also requires Py2Exe 
 
 #### Portals
 - Named as `portalId.txt`
-- Each portal script contains just one line of the format `destinationMap-destPortalNum`, where `portalNum` is the index of the portal on the destination map (and not its id)
+- Each portal script contains just one line of the format `destinationMap-destPortalNum`, where `destPortalNum` is the index of the portal on the destination map (and not its id)
 
 #### More In-Depth Explanation to (Unlikely) Come...
 Thanks for stopping by!
