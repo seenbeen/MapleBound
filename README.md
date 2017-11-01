@@ -28,11 +28,13 @@
 - QUESTS to advance progress~ (and power-ups for rewards)
 
 ## Controls
-- `WSAD` for movement
+- `Left`, `Right` for movement
 - `L-Alt` to jump
 - `L-Shift` to charge bow
 - `WS` to aim bow while charging
-- `WS` to climb ladders
+- `Up`, `Down` to climb ladders and ropes
+- `Up` to enter portals
+- `Down` to crouch
 - Mouse to interact with NPCs
 
 ## Building and Running
