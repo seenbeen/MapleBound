@@ -7,6 +7,7 @@ from game_classes import *
 
 screen = display.set_mode((800,600))#,FULLSCREEN)
 display.set_caption("Maplebound Beta 1.0")
+display.set_icon(image.load("icon.png"))
 
 gaming = True
 running = True

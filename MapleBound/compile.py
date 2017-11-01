@@ -65,7 +65,7 @@ class BuildExe:
         self.project_description = "A Grade 10 Final Project"
  
         #Icon file (None will use pygame default icon)
-        self.icon_file = None
+        self.icon_file = "icon.ico"
  
         #Extra files/dirs copied to game
         self.extra_datas = []
