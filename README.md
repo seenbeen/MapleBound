@@ -40,7 +40,7 @@ Requires Python 2.7 with the appropriate Pygame installed. Also requires Py2Exe 
 1) Run `Maplebound Beta 1.0.py` using Python to run the game **OR**
 2) Run `build.sh`, which builds an exe in the `dist` folder using `compile.py` **OR**
 3) Alternatively, just download a built executable from [Here](https://www.mediafire.com/file/044n8wik8nq125n/MapleBound%20Beta%201.0.rar), extract and run `Maplebound Beta 1.0.exe` **AND**
-4) "Have Fun :)"
+4) Click anywhere to begin. "Have Fun :)"
 
 ### Regarding Custom Content (if you're curious about the engine)
 - We use a custom scripting system which follows a set of conventions to allow for a great amount of flexibility when designing content without the need to recompile
