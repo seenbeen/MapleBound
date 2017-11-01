@@ -310,7 +310,7 @@ class mob():
         
         #get hit? make sound pl0x
         self.sound_hit = mixer.Sound("mob/%s/damage.ogg"%mob_name)
-        self.sound_hit.set_volume(0.35)
+        self.sound_hit.set_volume(0.1)
         
         #can this mob jump? (also, can he walk off of a ledge?)
         self.can_jump = int(mob_data[0].strip())
